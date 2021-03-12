@@ -1,0 +1,92 @@
+[
+    {  
+        "name":"Blusa",
+        "description": "Blusa con bordados",
+        "price": 10,
+        "type":"sell",
+        "photo":"/images/anuncios2/Blusa.webp",
+        "tags":["lifestyle"],
+        "user": "alvaro"
+    }, {      
+        "name": "Cama de niños",      
+        "type": "sell",      
+        "price": 30,   
+        "description": "Estructura de cama infantil con somier 70×160. NO incluye el colchón. Está en buen estado pero dos esquinas están rozadas como aparece en la foto.Incluye barrera de protección.Las pegatinas que aparecen en la foto se pueden quitar. Rebajada",   
+        "photo": "/images/anuncios2/camaNiños.webp",      
+        "tags": [ "lifestyle"],
+        "user": "erika"    
+    },
+    {
+        "name": "Gafas de Sol",      
+        "type": "buy",      
+        "price": 12,      
+        "photo": "/images/anuncios2/GafasSol.webp",
+        "description": "Gafas Salvador Bachiller",      
+        "tags": [ "lifestyle"],
+        "user": "francois"    
+    },
+    {      
+        "name": "Huawei p20",      
+        "type": "sell",      
+        "price": 150,
+        "description": "Huawei p20 de 128gb color rosa Batería recién cambiada Estéticamente como nuevo",      
+        "photo": "/images/anuncios2/Huawei-p20.webp",      
+        "tags": [ "mobile"],
+        "user": "alvaro"    
+    },
+    {
+        "name": "Impresora",      
+        "type": "sell",      
+        "price": 25,      
+        "description": "Están en buen estado, no tiene tinte",
+        "photo": "/images/anuncios2/Impresora.webp",      
+        "tags": [ "mobile"],
+        "user": "alvaro"    
+    },
+    {
+        "name": "Lexus Is 300h",      
+        "type": "buy",      
+        "price": 31900,      
+        "description": "Contacte con su asesor exclusivo. * Promoción valida hasta fin de mes. Disponemos de 200 Lexus en Stock, no lo dude y pida cita por teléfono o correo electrónico. Lexus Madrid pone a su disposición una amplia gama de vehículos cuidadosamente seleccionados. Sólo los vehículos que han superado la inspección más rigurosa, de acuerdo a los más altos estándares de calidad, forman parte del programa de Vehículos Seminuevos Lexus. Todos los Vehículos Seminuevos Lexus Madrid Norte, le ofrece: Garantía Oficial hasta 3 años sin límite de kilometraje Revisión independiente de 150 puntos Certificación de kilometraje. Mantenimientos realizados en la propia marca. Precio sujeto a financiación. *Consultar condiciones *Oferta valida salvo error tipográfico EQUIPAMIENTO OPCIONAL - Gris Oscuro (met) - Tela/Cuero Tahara Negro EQUIPAMIENTO DE SERIE - ABS - Acabados de lujo: pomo de la palanca de cambios en aluminio y cuero, consola central en aluminio simil, puertas en aluminio simil y tablero en aluminio simil - Airbag de rodilla para el conductor y acompañante - Airbag frontal del conductor inteligente, airbag frontal del acompañante desconectable y inteligente - Airbag lateral de cortina delantero y trasero - Airbags laterales delanteros - Aire acondicionado de automático - Alfombrillas - Apertura a distancia del maletero con control remoto - Apertura compartimiento motor - Apoyabrazos central delantero - Apoyabrazos trasero - Asiento delantero del conductor y acompañante individual, ajuste longitudinal manual y ajuste manual en altura con ajuste manual del respaldo - Asientos de tela (material principal) y de cuero (material secundario) - Asientos traseros de tres plazas de tipo banco de orientación delantera con banqueta fija y respaldo abatible asimétrico - Bluetooth ( incluye conexión para el teléfono ) ( incluye música por 'streaming' ) - Botón de arranque del vehículo - Cierre centralizado con mando a distancia, doble cierre y contról de los elevalunas - Cinturón de seguridad",
+        "photo": "/images/anuncios2/Lexus-Is-300h.webp",      
+        "tags": [ "motor"],
+        "user": "erika"    
+    },
+    {
+        "name": "Mando Psx Blaze",      
+        "type": "sell",      
+        "price": 5,      
+        "description": "Mando para PlayStation PS1 Blaze color rojo, funciona perfectamente. Entrega en mano en Madrid, también puedo realizar envíos.",
+        "photo": "/images/anuncios2/MandoPsxBlaze.webp",      
+        "tags": [ "mobile"],
+        "user": "alvaro"    
+    },
+    {
+        "name": "Refrigeradora",      
+        "type": "sell",      
+        "price": 50,      
+        "description": "Está en buen estado",
+        "photo": "/images/anuncios2/Refrigeradora.webp",      
+        "tags": [ "lifestyle"],
+        "user": "alvaro"    
+    },
+    {
+        "name": "Samsung Galaxy A5",      
+        "type": "sell",      
+        "price": 50,      
+        "description": "Samsung galaxy A5 2016 Esta en buen estado. Y funcionando perfectamente. Libre",
+        "photo": "/images/anuncios2/SamsungGalaxyA5.webp",      
+        "tags": [ "mobile"],
+        "user": "alvaro"    
+    },
+    {
+        "name": "Zapatos de mujer",      
+        "type": "sell",      
+        "price": 10,      
+        "description": "Los zapatos están nuevos con tacón",
+        "photo": "/images/anuncios2/ZapatosMujer.webp",      
+        "tags": [ "lifestyle"],
+        "user": "erika"    
+    }
+    
+]

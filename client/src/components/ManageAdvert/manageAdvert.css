@@ -1,0 +1,59 @@
+.nuevo-anuncio{
+  background-color: rgb(237, 247, 250);
+  border: 2px solid black;
+  border-radius: 15px;
+  padding: 00px 40px 30px 40px ;
+  margin: 0 auto;
+  position: relative;
+ 
+ 
+  top: 150px;
+  width: 460px;
+  min-width: 250px;
+}
+
+.pagina-fondo-6{
+    background-color: rgb(255, 255, 255);
+    padding-bottom: 250px;
+}
+.cabecera-anuncio{
+    margin-top: 10px;
+    margin-bottom: 20px;
+}
+
+.nombre-precio{
+    display: flex;
+    justify-content: space-between;
+}
+
+.nombre-producto{
+    /* display: inline-block; */
+    width: 190px;
+}
+.descripcion-producto{
+   /*  display: inline-block; */
+    width: 100px;
+}
+
+.subir{
+    margin-top: 8px;
+    margin-bottom: 8px;
+
+}
+
+.crear-tipo{
+   display: inline-block;
+   margin-right: 20px;
+}
+
+.crear-categoria{
+    display: inline-block;
+    width: 140px;
+    
+}
+
+.crear-boton{
+    display: block;
+    margin: 0px auto;
+    margin-top: 20px;
+}
