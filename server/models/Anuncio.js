@@ -22,7 +22,7 @@ const anuncioSchema = new Schema(
         /**
         * Tipo de anuncio: compra o venta
         */
-        type: { type: String, enum: ['Venta', 'Compra'], required: true, index: true },
+        type: { type: String, enum: ['buy', 'sell'], required: true, index: true },
         /**
         * Foto del artículo
         */
